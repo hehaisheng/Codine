@@ -12,7 +12,7 @@ public class MainActivity  extends Activity{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //h
+        //再次测试一下
         setContentView(R.layout.layout_main);
     }
 
